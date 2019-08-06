@@ -1,0 +1,11 @@
+int main()
+{ farmer f1("wheat","rice","cane",500000, "Kishan" , 123, "ghaziabad", "Indian", 521337771 , 1000, 5, 10 ,1989, 11, 30, 2017, 8, 7 ,2018);
+                v.push_back(f1);
+                farmer f2("pulse","rice","cane",6000,"rahul" , 251, "noida", "Indian", 521337772 , 2000, 10, 6 ,1989, 12, 10, 17, 7, 7 ,2018);
+                v.push_back(f2);
+                farmer f3("wheat","rice","mustard",168000,"jagmohan" , 109, "ghaziabad", "Indian", 521336771 , 9000, 9, 19 ,1979, 11, 16, 2017, 7, 7 ,2018);
+                v.push_back(f3);
+                farmer f4("wheat","rice","potato",256830,"ramesh" , 163, "ghaziabad", "Indian", 591337771 , 10000, 8, 10 ,1989, 12, 10, 17, 7, 7 ,2018);
+                v.push_back(f4);
+                menu();
+     }           
